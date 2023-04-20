@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{b as r,o as c,e as n}from"./index-ab00b60f.js";const a={};function t(s,_){const e=r("calendar",!0);return c(),n(e)}const m=o(a,[["render",t]]);export{m as default};

@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{b as c,o as n,e as r}from"./index-ab00b60f.js";const s={};function t(_,a){const o=c("choose-icon",!0);return n(),r(o)}const p=e(s,[["render",t]]);export{p as default};
